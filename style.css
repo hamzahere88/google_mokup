@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.main1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main1 input {
+    width: 60%;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.btn {}
+
+
+/* is se yeh hoga ke mjhe agar same element ko call karana hai css mein to mein is tarhaan se name de kr aap us ko section wise dvide krskte hain */
+
+
+/* new things jo mene learn ki hain ali se is project pe kam krte howe or is se yeh faida howa ke mein ek problem mein phasa tha ke agar same name ke tag ko agar mjhe css mein call karana ho to ksi tarhaan karwaoon ga  */
